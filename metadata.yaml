@@ -1,0 +1,40 @@
+_repo: Twilight-sleep_70844
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edith_Wharton
+    - https://fr.wikipedia.org/wiki/Edith_Wharton
+description: 'Wikipedia: https://en.wikipedia.org/wiki/Twilight_Sleep_(novel)'
+gutenberg_issued: '2023-05-23'
+identifiers:
+  gutenberg: '70844'
+  lccn: '27011209'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001188230
+pgterms:marc905: 20230306021646wharton
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: '  $aUnited States :$bD. Appleton and Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Upper class -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Twilight sleep
+url: http://www.gutenberg.org/ebooks/70844
