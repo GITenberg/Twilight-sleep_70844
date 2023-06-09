@@ -1,5 +1,8 @@
 _repo: Twilight-sleep_70844
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70844-h/images/cover.jpg
 creator:
   author:
     agent_name: Wharton, Edith
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Edith_Wharton
     - https://fr.wikipedia.org/wiki/Edith_Wharton
 description: 'Wikipedia: https://en.wikipedia.org/wiki/Twilight_Sleep_(novel)'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70844#Twilight-sleep
 gutenberg_issued: '2023-05-23'
 identifiers:
   gutenberg: '70844'
